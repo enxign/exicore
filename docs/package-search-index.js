@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"io.github.enxign.core.seed"},{"l":"io.github.enxign.core.shed"}];updateSearchResults();
