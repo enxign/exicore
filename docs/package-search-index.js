@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"io.github.enxign.core"},{"l":"io.github.enxign.pure"}];updateSearchResults();
