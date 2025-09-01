@@ -1,3 +1,3 @@
-# exicore v1.0.0-SNAPSHOT
+# exicore v1.0-SNAPSHOT
 
 https://enxign.github.io/exicore/
